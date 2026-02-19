@@ -54,8 +54,8 @@ An AI-powered operations management system for drone fleet coordination, pilot a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/skylark-drone-ops.git
-cd skylark-drone-ops
+git clone https://github.com/shreyasc84/skylark.git
+cd skylark
 ```
 
 ### 2. Create virtual environment
